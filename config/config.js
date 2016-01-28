@@ -119,7 +119,7 @@ module.exports = {
   leveldb: db,
   bitcoind: bitcoindConf,
   network: network,
-  disableP2pSync: false,
+  disableP2pSync: true,
   disableHistoricSync: false,
   poolMatchFile: rootPath + '/etc/minersPoolStrings.json',
 
