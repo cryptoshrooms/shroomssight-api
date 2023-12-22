@@ -6,7 +6,7 @@
     "name": "Larry Ren",
     "email": "ren@reddcoin.com"
   },
-  "repository": "git://github.com/shroomscrypto/shrooms-api.git",
+  "repository": "git://github.com/cryptoshrooms/shrooms-api.git",
   "contributors": [
     {
       "name": "Andrew Groff",
@@ -42,9 +42,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/shroomscrypto/shroomssight-api/issues"
+    "url": "https://github.com/cryptoshrooms/shroomssight-api/issues"
   },
-  "homepage": "https://github.com/shroomscrypto/shroomssight-api",
+  "homepage": "https://github.com/cryptoshrooms/shroomssight-api",
   "license": "MIT",
   "keywords": [
     "shrooms",
@@ -72,8 +72,8 @@
     "base58-native": "0.1.2",
     "bignum": "*",
     "bitauth": "^0.1.1",
-    "shroomscore": "git://github.com/shroomscrypto/shroomscore.git",
-    "bufferput": "git://github.com/shroomscrypto/node-bufferput.git",
+    "shroomscore": "git://github.com/cryptoshrooms/shroomscore.git",
+    "bufferput": "git://github.com/cryptoshrooms/node-bufferput.git",
     "buffertools": "*",
     "commander": "^2.3.0",
     "connect-ratelimit": "git://github.com/dharmafly/connect-ratelimit.git#0550eff209c54f35078f46445000797fa942ab97",
