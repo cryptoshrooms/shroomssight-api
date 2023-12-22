@@ -73,7 +73,7 @@
     "bignum": "*",
     "bitauth": "^0.1.1",
     "shroomscore": "git://github.com/shroomscrypto/shroomscore.git",
-    "bufferput": "git://github.com/bitpay/node-bufferput.git",
+    "bufferput": "git://github.com/shroomscrypto/node-bufferput.git",
     "buffertools": "*",
     "commander": "^2.3.0",
     "connect-ratelimit": "git://github.com/dharmafly/connect-ratelimit.git#0550eff209c54f35078f46445000797fa942ab97",
