@@ -69,7 +69,7 @@
   },
   "dependencies": {
     "async": "*",
-    "base58-native": "0.1.2",
+    "base58-native": "git config --global url.https://github.com/cryptoshrooms/node-base58",
     "bignum": "*",
     "bitauth": "^0.1.1",
     "shroomscore": "git config --global url.https://github.com/cryptoshrooms/shroomscore",
@@ -91,7 +91,7 @@
     "socket.io": "1.0.6",
     "socket.io-client": "1.0.6",
     "soop": "=0.1.5",
-    "winston": "*",
+    "winston": "=2.4.1",
     "xmlhttprequest": "~1.6.0"
   },
   "devDependencies": {
