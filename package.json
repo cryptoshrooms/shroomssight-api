@@ -74,7 +74,7 @@
     "bitauth": "^0.1.1",
     "shroomscore": "git config --global url.https://github.com/cryptoshrooms/shroomscore",
     "bufferput": "git config --global url.https://github.com/cryptoshrooms/node-bufferput",
-    "buffertools": "*",
+    "buffertools": "git config --global url.https://github.com/cryptoshrooms/node-buffertools",
     "commander": "^2.3.0",
     "connect-ratelimit": "git config --global url.https://github.com/cryptoshrooms/connect-ratelimit.git#0550eff209c54f35078f46445000797fa942ab97",
     "cron": "^1.0.4",
